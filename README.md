@@ -15,7 +15,7 @@
 <p>
 
 <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-3952b1?style=flat-square&logo=javascript&logoColor=white"/>
-<img alt="Github" src="https://img.shields.io/badge/-Github-7d1061?style=flat-square&logo=github&logoColor=white"/>
+<!-- <img alt="Github" src="https://img.shields.io/badge/-Github-7d1061?style=flat-square&logo=github&logoColor=white"/> -->
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-a6094d?style=flat-square&logo=html5&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-bb0642?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-9f3536?style=flat-square&logo=mongodb&logoColor=white"/>
