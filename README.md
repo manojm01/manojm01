@@ -11,8 +11,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<h2>🔧 Things I work with</h2>
-<p>
+<!-- <h2>🔧 Things I work with</h2> -->
+<!-- <p> -->
 <!--
 <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-3952b1?style=flat-square&logo=javascript&logoColor=white"/>
  <img alt="Github" src="https://img.shields.io/badge/-Github-7d1061?style=flat-square&logo=github&logoColor=white"/> 
@@ -90,10 +90,11 @@
   </a>
   
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojm01&show_icons=true&locale=en&layout=compact" alt="manojm01" /></p><br/><br/>
 
 <br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojm01&show_icons=true&locale=en&layout=compact" alt="manojm01" /></p><br/><br/>
+
 
 <br/><br/><br/><br/>
 <p>   <p/>
