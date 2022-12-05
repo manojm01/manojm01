@@ -26,7 +26,7 @@
 <h1 align="center">Hi, I'm Manoj!</h1>
 <h3 align="center">A flutter developer and AWS Learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarangi203&label=Profile%20views&color=0e75b6&style=flat" alt="swarangi203" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojm01&label=Profile%20views&color=0e75b6&style=flat" alt="manojm01" /> </p>
 
 
 
