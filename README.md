@@ -1,4 +1,4 @@
-### Hi there 👋 I am Manoj
+<!-- ### Hi there 👋 I am Manoj -->
 
 <!-- Here are some ideas to get you started: -->
 
@@ -13,20 +13,20 @@
 
 <h2>🔧 Things I work with</h2>
 <p>
-
+<!--
 <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-3952b1?style=flat-square&logo=javascript&logoColor=white"/>
-<!-- <img alt="Github" src="https://img.shields.io/badge/-Github-7d1061?style=flat-square&logo=github&logoColor=white"/> -->
+ <img alt="Github" src="https://img.shields.io/badge/-Github-7d1061?style=flat-square&logo=github&logoColor=white"/> 
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-a6094d?style=flat-square&logo=html5&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-bb0642?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-9f3536?style=flat-square&logo=mongodb&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-55753c?style=flat-square&logo=Node.js&logoColor=white"/>
-  
+   -->
   
 
 <h1 align="center">Hi, I'm Manoj!</h1>
 <h3 align="center">Web Developer | Problem solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojm01&label=Profile%20views&color=0e75b6&style=flat" alt="manojm01" /> </p>
+
 
 
 
