@@ -24,7 +24,7 @@
   
 
 <h1 align="center">Hi, I'm Manoj!</h1>
-<h3 align="center">Web Developer | Problem solver</h3>
+<h3 align="center">Programmer | Problem solver</h3>
 
 
 
@@ -32,7 +32,7 @@
 
 <!-- - 🌱 I’m currently learning **Flutter, AWS** -->
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **manojmetgud035@gmail.com**
 
@@ -69,6 +69,9 @@
   </a>  -->
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
    <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
